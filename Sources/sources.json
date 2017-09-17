@@ -1,0 +1,158 @@
+{
+    "Google News": {
+        "category": "general",
+        "description": "Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.",
+        "language": "en",
+        "sortBysAvailable": [
+            "top"
+        ],
+        "url": "https://news.google.com",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "large": "",
+            "medium": ""
+        },
+        "id": "google-news",
+        "name": "Google News"
+    },
+    "The Verge": {
+        "category": "technology",
+        "description": "The Verge covers the intersection of technology, science, art, and culture.",
+        "language": "en",
+        "sortBysAvailable": [
+            "top",
+            "latest"
+        ],
+        "url": "http://www.theverge.com",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "large": "",
+            "medium": ""
+        },
+        "id": "the-verge",
+        "name": "The Verge"
+    },
+    "The Wall Street Journal": {
+        "category": "business",
+        "description": "WSJ online coverage of breaking news and current headlines from the US and around the world. Top stories, photos, videos, detailed analysis and in-depth reporting.",
+        "language": "en",
+        "sortBysAvailable": [
+            "top"
+        ],
+        "url": "http://www.wsj.com",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "large": "",
+            "medium": ""
+        },
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+    },
+    "The Washington Post": {
+        "category": "general",
+        "description": "Breaking news and analysis on politics, business, world national news, entertainment more. In-depth DC, Virginia, Maryland news coverage including traffic, weather, crime, education, restaurant reviews and more.",
+        "language": "en",
+        "sortBysAvailable": [
+            "top"
+        ],
+        "url": "https://www.washingtonpost.com",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "large": "",
+            "medium": ""
+        },
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+    },
+    "Time": {
+        "category": "general",
+        "description": "Breaking news and analysis from TIME.com. Politics, world news, photos, video, tech reviews, health, science and entertainment news.",
+        "language": "en",
+        "sortBysAvailable": [
+            "top",
+            "latest"
+        ],
+        "url": "http://time.com",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "large": "",
+            "medium": ""
+        },
+        "id": "time",
+        "name": "Time"
+    },
+    "Buzzfeed": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed",
+        "description": "BuzzFeed is a cross-platform, global network for news and entertainment that generates seven billion views each month.",
+        "url": "https://www.buzzfeed.com",
+        "category": "entertainment",
+        "language": "en",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "medium": "",
+            "large": ""
+        },
+        "sortBysAvailable": [
+            "top",
+            "latest"
+        ]
+    },
+    "ESPN": {
+        "id": "espn",
+        "name": "ESPN",
+        "description": "ESPN has up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more.",
+        "url": "http://espn.go.com",
+        "category": "sport",
+        "language": "en",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "medium": "",
+            "large": ""
+        },
+        "sortBysAvailable": [
+            "top"
+        ]
+    },
+    "CNN": {
+        "id": "cnn",
+        "name": "CNN",
+        "description": "View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN",
+        "url": "http://us.cnn.com",
+        "category": "general",
+        "language": "en",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "medium": "",
+            "large": ""
+        },
+        "sortBysAvailable": [
+            "top"
+        ]
+    },
+    "The New York Times": {
+        "id": "the-new-york-times",
+        "name": "The New York Times",
+        "description": "The New York Times: Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies, travel, books, jobs, education, real estate, cars & more at nytimes.com.",
+        "url": "http://www.nytimes.com",
+        "category": "general",
+        "language": "en",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "medium": "",
+            "large": ""
+        },
+        "sortBysAvailable": [
+            "top"
+        ]
+    }
+}

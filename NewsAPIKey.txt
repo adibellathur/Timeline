@@ -1,0 +1,2 @@
+NewsAPI:
+key: 785390bcf5cd458d8dd187081b5bb1db

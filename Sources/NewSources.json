@@ -1,0 +1,38 @@
+{
+    "The Verge": {
+        "id": "the-verge",
+        "name": "The Verge",
+        "description": "The Verge covers the intersection of technology, science, art, and culture.",
+        "url": "http://www.theverge.com",
+        "category": "technology",
+        "language": "en",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "medium": "",
+            "large": ""
+        },
+        "sortBysAvailable": [
+            "top",
+            "latest"
+        ]
+    },
+    "Buzzfeed": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed",
+        "description": "BuzzFeed is a cross-platform, global network for news and entertainment that generates seven billion views each month.",
+        "url": "https://www.buzzfeed.com",
+        "category": "entertainment",
+        "language": "en",
+        "country": "us",
+        "urlsToLogos": {
+            "small": "",
+            "medium": "",
+            "large": ""
+        },
+        "sortBysAvailable": [
+            "top",
+            "latest"
+        ]
+    }
+}
